@@ -256,10 +256,10 @@
       <div class="col-7"></div>
       <div class="col-5">
         <div class>
-          <img src="img/iza_back.png" class="img_back" />
+          <img src="~assets/img/iza_back.png" class="img_back" />
         </div>
         <div class="img_logo">
-          <img src="img/iza_logo.png" />
+          <img src="~assets/img/iza_logo.png" />
         </div>
       </div>
     </div>
