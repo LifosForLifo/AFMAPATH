@@ -9,11 +9,17 @@
 /**************** extend css start ****************/
 /**************** common css start ****************/
 /* line 3, /Applications/MAMP/htdocs/palash/cl/july 2019/192 Agency/192 Agency html/sass/_common.scss */
+
+
+html,
 body {
   font-family: "Open Sans", sans-serif;
-  padding: 0;
-  margin: 0;
-  font-size: 14px;
+
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  overflow-x: hidden;
+
 }
 
 /* line 9, /Applications/MAMP/htdocs/palash/cl/july 2019/192 Agency/192 Agency html/sass/_common.scss */
@@ -2215,14 +2221,18 @@ ul {
   color: #999999;
 }
 
+.nuxt-link-exact-active {
+  color: #ff751a !important;
+
+}
+
 /**************menu part start*****************/
 /* line 2, /Applications/MAMP/htdocs/palash/cl/july 2019/192 Agency/192 Agency html/sass/_menu.scss */
 .main_menu {
-  position: absolute;
   top: 0;
   width: 100%;
   z-index: 99;
-  background-color: transparent;
+  background-color: white;
 }
 
 /* line 7, /Applications/MAMP/htdocs/palash/cl/july 2019/192 Agency/192 Agency html/sass/_menu.scss */
@@ -2234,7 +2244,8 @@ ul {
 
   /* line 10, /Applications/MAMP/htdocs/palash/cl/july 2019/192 Agency/192 Agency html/sass/_menu.scss */
   .main_menu .navbar-brand img {
-    max-width: 120px;
+    max-width: 100px;
+    margin-top: -20px;
   }
 }
 

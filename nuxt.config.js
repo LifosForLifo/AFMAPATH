@@ -21,7 +21,7 @@ export default {
     link: [{
       rel: 'icon',
       type: 'image/x-icon',
-      href: '/favicon.ico'
+      href: '/logo_afmapath.ico'
     }, {
       rel: 'stylesheet',
       href: 'https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css'

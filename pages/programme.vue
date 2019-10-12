@@ -5,7 +5,7 @@
     <!-- breadcrumb start-->
     <div class="container">
       <!--table 1-->
-      <div class="table-title" style="background-color: #ff751a !important; width: 25% !important;">
+      <div class="table-title">
         <h3>Jeudi 24 Octobre 2019</h3>
       </div>
       <table class="table-fill">
@@ -95,7 +95,7 @@
       </table>
 
       <!--table 2-->
-      <div class="table-title" style="background-color: #ff751a !important; width: 25% !important;">
+      <div class="table-title">
         <h3>Vendredi 25 Octobre 2019</h3>
       </div>
       <table class="table-fill">
@@ -265,7 +265,7 @@
       </table>
 
       <!--table 3-->
-      <div class="table-title" style="background-color: #ff751a !important; width: 25% !important;">
+      <div class="table-title">
         <h3>Samedi 26 Octobre 2019</h3>
       </div>
       <table class="table-fill">
@@ -427,6 +427,18 @@ div.table-title {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+@media only screen and (max-width: 576px) {
+  div.table-title {
+    width: 90% !important;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 992px) {
+  div.table-title {
+    width: 60% !important;
+  }
 }
 
 .table-title h3 {

@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- banner part start-->
-    <section class="banner_part mt">
+    <section class="banner_part">
       <!-- <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6 offset-lg-1">

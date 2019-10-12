@@ -30,8 +30,15 @@
     padding-top: 80px !important;
 }
 
+html,
 body {
+    font-family: "Open Sans", sans-serif;
+
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
     overflow-x: hidden;
+
 }
 
 .upper {
@@ -50,7 +57,7 @@ body {
 
 .breadcrumb_tittle {
     margin-top: 150px;
-    margin-left: -50px;
+    margin-left: -30px;
 }
 
 .breadcrumb_tittle h3 {
