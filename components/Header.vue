@@ -4,9 +4,9 @@
       <div class="row align-items-center">
         <div class="col-lg-12">
           <nav class="navbar navbar-expand-lg navbar-light">
-            <router-link class="navbar-brand" to="/">
+            <nuxt-link class="navbar-brand" to="/">
               <img src="~/assets/img/logo_afmapath.png" alt="logo" class="img_header" />
-            </router-link>
+            </nuxt-link>
 
             <button
               class="navbar-toggler"
@@ -19,36 +19,35 @@
             >
               <span class="ti-menu"></span>
             </button>
-
             <div
               class="collapse navbar-collapse main-menu-item justify-content-center animated fadeIn"
               id="navbarSupportedContent"
             >
               <ul class="navbar-nav align-items-center">
                 <li class="nav-item">
-                  <router-link class="nav-link" to="/">congrés</router-link>
+                  <nuxt-link class="nav-link" to="/">congrés</nuxt-link>
                 </li>
                 <li class="nav-item">
-                  <router-link class="nav-link" to="/mot-du-president">Mot du président</router-link>
+                  <nuxt-link class="nav-link" to="/mot-du-president">Mot du président</nuxt-link>
                 </li>
                 <li class="nav-item">
-                  <router-link class="nav-link" to="/programme">Programme</router-link>
+                  <nuxt-link class="nav-link" to="/programme">Programme</nuxt-link>
                 </li>
                 <li class="nav-item">
-                  <router-link class="nav-link" to="/frais-sponsor">Frais des sponsors</router-link>
+                  <nuxt-link class="nav-link" to="/frais-sponsor">Frais des sponsors</nuxt-link>
                 </li>
                 <li class="nav-item">
-                  <router-link class="nav-link" to="/frais-client">Frais d’inscription</router-link>
+                  <nuxt-link class="nav-link" to="/frais-client">Frais d’inscription</nuxt-link>
                 </li>
                 <li class="nav-item">
-                  <router-link class="nav-link" to="/gallery">Gallery</router-link>
+                  <nuxt-link class="nav-link" to="/gallery">Gallery</nuxt-link>
                 </li>
               </ul>
             </div>
 
-            <router-link class="navbar-brand" to="/">
+            <nuxt-link class="navbar-brand" to="/">
               <img src="~/assets/img/logo_cnpm.png" class="img_header" alt="logo" />
-            </router-link>
+            </nuxt-link>
           </nav>
         </div>
       </div>

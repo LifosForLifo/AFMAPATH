@@ -29,22 +29,22 @@
             <h4 class="color-orange">Menu</h4>
             <ul>
               <li>
-                <router-link class="color-blue" to="/mot-du-president">Mot du président</router-link>
+                <nuxt-link class="color-blue" to="/mot-du-president">Mot du président</nuxt-link>
               </li>
               <li>
-                <router-link class="color-blue" to="/programme">Programme</router-link>
+                <nuxt-link class="color-blue" to="/programme">Programme</nuxt-link>
               </li>
               <li>
-                <router-link
+                <nuxt-link
                   class="color-blue"
                   to="/frais-sponsor"
-                >Frais de participation des sponsors</router-link>
+                >Frais de participation des sponsors</nuxt-link>
               </li>
               <li>
-                <router-link
+                <nuxt-link
                   class="color-blue"
                   to="/frais-client"
-                >Frais d’inscription et d’hebergement</router-link>
+                >Frais d’inscription et d’hebergement</nuxt-link>
               </li>
             </ul>
           </div>
@@ -54,13 +54,13 @@
             <h4 class="color-orange">Aide</h4>
             <ul>
               <li>
-                <router-link
+                <nuxt-link
                   class="color-blue"
                   to="/termes-et-conditions-générales"
-                >Termes et conditions</router-link>
+                >Termes et conditions</nuxt-link>
               </li>
               <li>
-                <router-link class="color-blue" to="/contact-us">Contactez-nous</router-link>
+                <nuxt-link class="color-blue" to="/contact-us">Contactez-nous</nuxt-link>
               </li>
             </ul>
           </div>
