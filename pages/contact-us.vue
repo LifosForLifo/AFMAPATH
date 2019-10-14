@@ -10,48 +10,6 @@
           </div>
           <div class="col-lg-8">
             <form
-              name="contact"
-              method="POST"
-              data-netlify="true"
-              class="form-contact contact_form"
-            >
-              <div class="row">
-                <div class="col-sm-6">
-                  <p>
-                    <input type="text" name="name" class="form-control" />
-                  </p>
-                </div>
-                <div class="col-sm-6">
-                  <p>
-                    <input type="email" name="email" class="form-control" />
-                  </p>
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-sm-6">
-                  <p>
-                    <label>
-                      Your Role:
-                      <select name="role[]" multiple>
-                        <option value="leader">Leader</option>
-                        <option value="follower">Follower</option>
-                      </select>
-                    </label>
-                  </p>
-                </div>
-              </div>
-              <input type="hidden" name="form-name" value="contact" />
-              <p>
-                <label>
-                  Message:
-                  <textarea name="message"></textarea>
-                </label>
-              </p>
-              <p>
-                <button type="submit" class="button button-contactForm btn_1">Send</button>
-              </p>
-            </form>
-            <!--             <form
               class="form-contact contact_form"
               name="contact"
               method="POST"
@@ -60,24 +18,32 @@
               <div class="row">
                 <div class="col-sm-6">
                   <div class="form-group">
-                    <input class="form-control" name="name" id="name" type="text" />
+                    <input class="form-control" name="name" id="name" type="text" placeholder="Nom" />
                   </div>
                 </div>
                 <div class="col-sm-6">
                   <div class="form-group">
-                    <input class="form-control" name="email" type="email" />
+                    <input class="form-control" name="email" type="email" placeholder="Email" />
                   </div>
                 </div>
                 <div class="col-12">
                   <div class="form-group">
-                    <textarea class="form-control w-100" name="message" cols="30" rows="9"></textarea>
+                    <textarea
+                      class="form-control w-100"
+                      name="message"
+                      cols="30"
+                      rows="9"
+                      placeholder="Message"
+                    ></textarea>
                   </div>
                 </div>
               </div>
+              <input type="hidden" name="form-name" value="contact" />
+
               <div class="form-group mt-3">
                 <button type="submit" class="button button-contactForm btn_1">Envoyer Message</button>
               </div>
-            </form>-->
+            </form>
           </div>
 
           <div class="col-lg-4">
