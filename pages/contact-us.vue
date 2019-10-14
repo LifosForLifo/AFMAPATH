@@ -47,7 +47,7 @@
                 </label>
               </p>
               <p>
-                <button type="submit">Send</button>
+                <button type="submit" class="button button-contactForm btn_1">Send</button>
               </p>
             </form>
             <!--             <form
