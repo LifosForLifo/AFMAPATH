@@ -15,27 +15,31 @@
               data-netlify="true"
               class="form-contact contact_form"
             >
-              <p>
-                <label>
-                  Your Name:
-                  <input type="text" name="name" class="form-control" />
-                </label>
-              </p>
-              <p>
-                <label>
-                  Your Email:
-                  <input type="email" name="email" class="form-control" />
-                </label>
-              </p>
-              <p>
-                <label>
-                  Your Role:
-                  <select name="role[]" multiple>
-                    <option value="leader">Leader</option>
-                    <option value="follower">Follower</option>
-                  </select>
-                </label>
-              </p>
+              <div class="row">
+                <div class="col-sm-6">
+                  <p>
+                    <input type="text" name="name" class="form-control" />
+                  </p>
+                </div>
+                <div class="col-sm-6">
+                  <p>
+                    <input type="email" name="email" class="form-control" />
+                  </p>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-6">
+                  <p>
+                    <label>
+                      Your Role:
+                      <select name="role[]" multiple>
+                        <option value="leader">Leader</option>
+                        <option value="follower">Follower</option>
+                      </select>
+                    </label>
+                  </p>
+                </div>
+              </div>
               <p>
                 <label>
                   Message:
