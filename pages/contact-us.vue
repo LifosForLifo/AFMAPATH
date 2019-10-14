@@ -40,6 +40,8 @@
                   </p>
                 </div>
               </div>
+              <input type="hidden" name="form-name" value="name-of-form" />
+
               <p>
                 <label>
                   Message:
