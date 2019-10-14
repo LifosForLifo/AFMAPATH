@@ -15,6 +15,7 @@
                     </div>
                 </div>
       </div>-->
+      <h1>Association Franco Marocaine De Pathologie Thoracique</h1>
     </section>
     <!-- banner part start-->
     <div class>
@@ -31,14 +32,29 @@ export default {
         {
           hid: "afmapath",
           name: "Home",
-          content: "Home"
+          content: "Association Franco Marocaine De Pathologie Thoracique"
         }
       ]
     };
   }
 };
 </script>
-<style>
+<style scoped>
+h1 {
+  margin-top: 40px;
+  text-align: center;
+  color: white;
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: 70px;
+}
+@media (max-width: 992px) {
+  h1 {
+    font-size: 30px;
+    margin-top: 80px;
+  }
+}
+
 .mt {
   margin-top: 100px;
 }

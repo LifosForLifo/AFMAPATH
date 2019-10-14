@@ -2464,7 +2464,7 @@ ul {
   overflow: hidden;
   background-image: url(~assets//img/breadcrumb.png);
   background-repeat: no-repeat;
-  background-size: content;
+  background-size: cover !important;
   background-position: center;
   z-index: 1;
 }
