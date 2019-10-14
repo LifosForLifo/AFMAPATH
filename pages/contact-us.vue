@@ -28,11 +28,9 @@
                 </div>
               </div>
               <div class="col-sm-12">
-                <div class="form-group">
-                  <p>
-                    <textarea name="message" cols="30" rows="9" class="form-control"></textarea>
-                  </p>
-                </div>
+                <p>
+                  <textarea name="message" cols="30" rows="9" class="form-control"></textarea>
+                </p>
               </div>
               <p>
                 <button type="submit" class="button button-contactForm btn_1">Send</button>
