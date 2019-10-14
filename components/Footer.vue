@@ -54,10 +54,7 @@
             <h4 class="color-orange">Aide</h4>
             <ul>
               <li>
-                <nuxt-link
-                  class="color-blue"
-                  to="/termes-et-conditions-générales"
-                >Termes et conditions</nuxt-link>
+                <nuxt-link class="color-blue" to="/termes">Termes et conditions</nuxt-link>
               </li>
               <li>
                 <nuxt-link class="color-blue" to="/contact-us">Contactez-nous</nuxt-link>

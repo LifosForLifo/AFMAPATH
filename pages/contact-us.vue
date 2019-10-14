@@ -27,11 +27,25 @@
                   </p>
                 </div>
               </div>
-              <div class="col-sm-12">
-                <p>
-                  <textarea name="message"></textarea>
-                </p>
+              <div class="row">
+                <div class="col-sm-6">
+                  <p>
+                    <label>
+                      Your Role:
+                      <select name="role[]" multiple>
+                        <option value="leader">Leader</option>
+                        <option value="follower">Follower</option>
+                      </select>
+                    </label>
+                  </p>
+                </div>
               </div>
+              <p>
+                <label>
+                  Message:
+                  <textarea name="message"></textarea>
+                </label>
+              </p>
               <p>
                 <button type="submit" class="button button-contactForm btn_1">Send</button>
               </p>
