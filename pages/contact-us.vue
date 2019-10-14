@@ -15,6 +15,12 @@
               method="POST"
               data-netlify="true"
             >
+              <p class="hidden">
+                <label>
+                  Don’t fill this out if you're human:
+                  <input name="bot-field" />
+                </label>
+              </p>
               <div class="row">
                 <div class="col-sm-6">
                   <div class="form-group">
