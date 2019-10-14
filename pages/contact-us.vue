@@ -9,17 +9,22 @@
             <h2 class="contact-title color-orange">Contactez-nous</h2>
           </div>
           <div class="col-lg-8">
-            <form name="contact" method="POST" data-netlify="true">
+            <form
+              name="contact"
+              method="POST"
+              data-netlify="true"
+              class="form-contact contact_form"
+            >
               <p>
                 <label>
                   Your Name:
-                  <input type="text" name="name" />
+                  <input type="text" name="name" class="form-control" />
                 </label>
               </p>
               <p>
                 <label>
                   Your Email:
-                  <input type="email" name="email" />
+                  <input type="email" name="email" class="form-control" />
                 </label>
               </p>
               <p>
