@@ -29,7 +29,7 @@
               </div>
               <div class="col-sm-12">
                 <p>
-                  <textarea name="message" cols="30" rows="9" class="form-control"></textarea>
+                  <textarea name="message"></textarea>
                 </p>
               </div>
               <p>
