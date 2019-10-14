@@ -17,8 +17,8 @@ export default {
         content: "6tEyiZP9I-Bohd7n_oOss2_jm5kSD_KM8QWbR83DsYk"
       },
       {
-        hid: 'description',
-        name: 'description',
+        hid: 'afmapath',
+        name: 'afmapath',
         content: process.env.npm_package_description || ''
       }
     ],
