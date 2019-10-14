@@ -19,7 +19,7 @@ export default {
       {
         hid: 'afmapath',
         name: 'afmapath',
-        content: process.env.npm_package_description || ''
+        content: process.env.npm_package_description || 'Association Franco Marocaine De Pathologie Thoracique'
       }
     ],
     link: [{
