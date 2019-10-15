@@ -86,7 +86,7 @@
                   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                   Copyright &copy;
                   <i class="ti-heart" aria-hidden="true"></i> by
-                  <a href="#">LifoForLifos</a>
+                  <a href="#">Presperso</a>
                   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                 </p>
               </div>
