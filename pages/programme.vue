@@ -27,7 +27,7 @@
               <div class="font-weight-bold">Session allergologie</div>
               <div>
                 Allergies croisées pneumallergènes-trophallergènes.
-                <span>M. T EL FASSY FIHRY (Rabat)</span>
+                <span>M. EL FASSY FIHRY (Rabat)</span>
               </div>
               <div>
                 Prise en charge de l’allergie médicamenteuse en pratique de ville.
@@ -49,18 +49,18 @@
               <div class="font-weight-bold">Ateliers</div>
               <div>
                 <span class="font-weight-bold color-blue">AT1 :</span>
-                Atelier sur les PID « Confrontations radio-cliniques »
-                <span>G. DURAND</span>
+                Atelier VNI : indications, bénéfices potentiels et réglages de la VNI chez le BPCO en état stable ?
+                <span>TRZEPIZUR WOJCIECH (Angers) - M.SERRAJ (Fès)</span>
               </div>
               <div>
                 <span class="font-weight-bold color-blue">AT2 :</span>
                 Atelier sommeil : Scorage des événements respiratoires anormaux pour les débutants.
-                <span>S.HAMMI (Tanger)</span>
+                <span>S.HAMMI (Tanger) - M.SAMI</span>
               </div>
               <div>
                 <span class="font-weight-bold color-blue">AT3 :</span>
                 Recombinants « Prescriptions utiles »
-                <span>Y. El GUEDDARI - M. BOUMEDIENE (Larache)</span>
+                <span>Y.El GUEDDARI - M.BOUMEDIENE (Larache)</span>
               </div>
             </td>
           </tr>
@@ -120,7 +120,7 @@
                 <span>O.SANCHEZ (Paris)</span>
               </div>
               <div>
-                Intégration de l'imagerie dans la prise en charge de l'embolie par le pneumologue.
+                Sémiologie radiologique de l'embolie pulmonaire : ce que le pneumologue doit connaître.
                 <span>G.DURAND (Beziers)</span>
               </div>
               <div>
@@ -136,17 +136,17 @@
               <div>
                 <span class="font-weight-bold color-blue">AT4 :</span>
                 L’expérience Québécoise de la biothérapie dans le traitement du cancer du poumon, illustrée par des cas cliniques.
-                <span>C.LABBE (Laval-Canada)</span>
+                <span>C.LABBE (Laval-Canada) - N.BOURAS</span>
               </div>
               <div>
                 <span class="font-weight-bold color-blue">AT5 :</span>
-                Atelier VNI : indications, bénéfices potentiels et réglages de la VNI chez le BPCO en état stable ?
-                <span>TRZEPIZUR WOJCIECH (Angers)- M-SERRAJ (Fès)</span>
+                Atelier sur les PID "Confrontations radio-cliniques"
+                <span>G.DURAND - K.MARC</span>
               </div>
               <div>
                 <span class="font-weight-bold color-blue">AT6 :</span>
                 Initiation à l’échographie pleuro-pulmonaire.
-                <span>J.CELDRAN (Saint-Martin-des Champs)</span>
+                <span>J.CELDRAN (Saint-Martin-des Champs) - E.KOUAM</span>
               </div>
             </td>
           </tr>
@@ -173,7 +173,7 @@
               </div>
               <div>
                 Partenariat public-privé dans la pathologie de la tuberculose.
-                <span>K.EL BOUTI (Tétouan)</span>
+                <span>B.ISLAMI (Tétouan)</span>
               </div>
             </td>
           </tr>
@@ -183,16 +183,11 @@
               <div class="font-weight-bold">Ateliers</div>
               <div>
                 <span class="font-weight-bold color-blue">AT7 :</span>
-                Quel bilan fonctionnel per-opératoire en chirurgie thoracique ?
-                <span>B.DEGANO (Grenoble)</span>
-              </div>
-              <div>
-                <span class="font-weight-bold color-blue">AT8 :</span>
                 Prise en charge du pneumothorax en pratique.
                 <span>S.BOUBIA (Casablanca)</span>
               </div>
               <div>
-                <span class="font-weight-bold color-blue">AT9 :</span>
+                <span class="font-weight-bold color-blue">AT8 :</span>
                 Echographie de la plèvre normale et pathologique.
                 <span>J.CELDRAN (Saint-Martin-des Champs)</span>
               </div>
@@ -200,7 +195,7 @@
           </tr>
           <tr>
             <td class="text-left">12h00 - 12h20 :</td>
-            <td class="text-left">Sympo AVAD</td>
+            <td class="text-left">Visite des stands par la comité.</td>
           </tr>
           <tr>
             <td class="text-left font-weight-bold">12h30 - 14h00 :</td>
@@ -235,7 +230,12 @@
           </tr>
           <tr>
             <td class="text-left">16h30 - 17h00 :</td>
-            <td class="text-left">Sympo</td>
+            <td class="text-left">
+                <div>
+                    Sympo GSK : "Evolution des modalités thérapeutiques dans l'asthme".
+                    <span>M.I EL FASSI FIHRI (Rabat)</span>
+                </div>
+            </td>
           </tr>
           <tr>
             <td class="text-left">
@@ -245,7 +245,7 @@
               <div>18H00 - 18H30 :</div>
             </td>
             <td class="text-left">
-              <div class="font-weight-bold">Plénière BPCO</div>
+              <div class="font-weight-bold">Session Asthme</div>
               <div>
                 Asthme sévère : mécanismes et phénotypes :
                 <span>J.CHAKIR (Québec)</span>
@@ -254,12 +254,15 @@
                 Prise en charge de l’asthme de l’enfant a-t-elle un impact sur l’histoire de la maladie ?
                 <span>C.MAHRAOUI</span>
               </div>
-              <div>Rôle des petites voies aériennes dans l’asthme et implications thérapeutiques.</div>
+              <div>
+                  Rôle des petites voies aériennes dans l’asthme et implications thérapeutiques.
+                  <span>Zineb SAYAH</span>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="text-left font-weight-bold">20h00 :</td>
-            <td class="text-left font-weight-bold">Diner de l’amitiés</td>
+            <td class="text-left font-weight-bold">Diner de l’Amitiés</td>
           </tr>
         </tbody>
       </table>
@@ -300,7 +303,7 @@
               </div>
               <div>
                 Recommandations et actualités thérapeutiques de la FPI.
-                <span>B.AGUILANIU(Grenoble)</span> - Sympo
+                <span>Anne Sophie GAMEZ (Grenoble)</span> - Sympo
               </div>
             </td>
           </tr>
@@ -309,18 +312,19 @@
             <td class="text-left">
               <div class="font-weight-bold">Ateliers</div>
               <div>
-                <span class="font-weight-bold color-blue">AT11 :</span>
+                <span class="font-weight-bold color-blue">AT9 :</span>
                 Traitement des troubles respiratoires obstructifs du sommeil de l’enfant.
-                <span>R.CLAVEL-A.ROBERT-C.FERRET (Montpellier)</span>
+                <span>R.CLAVEL - C.FERRET (Montpellier)</span>
               </div>
               <div>
-                <span class="font-weight-bold color-blue">AT12 :</span>
+                <span class="font-weight-bold color-blue">AT10 :</span>
                 VO2Max en pratique.
-                <span>B.AGUILANIU</span>
+                <!-- <span>B.AGUILANIU</span> -->
               </div>
               <div>
-                <span class="font-weight-bold color-blue">AT13 :</span>
+                <span class="font-weight-bold color-blue">AT11 :</span>
                 PGV en pratique.
+                <span>M.EL IBRAHIMI (Casablanca)</span>
               </div>
             </td>
           </tr>
@@ -330,7 +334,7 @@
           </tr>
           <tr>
             <td class="text-left">10h30 - 11h00 :</td>
-            <td class="text-left">Symposium</td>
+            <td class="text-left">Symposium IM ALLIANCE. S.ZOUHAIR</td>
           </tr>
           <tr>
             <td class="text-left">
@@ -360,19 +364,19 @@
             <td class="text-left">
               <div class="font-weight-bold">Ateliers</div>
               <div>
-                <span class="font-weight-bold color-blue">AT14 :</span>
+                <span class="font-weight-bold color-blue">AT12 :</span>
                 Poumon des toxicomanes en imagerie.
-                <span>S.BOMMART (Montpellier)</span>
+                <span>S.BOMMART (Montpellier) - B.LOTFI</span>
               </div>
               <div>
-                <span class="font-weight-bold color-blue">AT15 :</span>
+                <span class="font-weight-bold color-blue">AT13 :</span>
                 Conduite à tenir devant une réaction anaphylactique en cabinet de ville.
-                <span>M.BOUMEDIENE–A.TEBAY</span>
+                <span>M.BOUMEDIENE - A.TEBAY</span>
               </div>
               <div>
-                <span class="font-weight-bold color-blue">AT16 :</span>
-                Intégration de l’imagerie dans la prise en charge de l’embolie par le pneumologue.
-                <span>G.DURAND</span>
+                <span class="font-weight-bold color-blue">AT14 :</span>
+                Embolie pulmonaire : intégration de l’imagerie dans la prise en charge de l’embolie par le pneumologue.
+                <span>G.DURAND - M.NAJID</span>
               </div>
             </td>
           </tr>

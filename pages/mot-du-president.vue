@@ -14,6 +14,7 @@
                   <ul class="list cat-list">
                     <li class="font-weight-bold color-orange">Président :</li>
                     <li class="color-blue">Mohammed EL IBRAHIMI</li>
+                    <li> <img src="~assets/img/comites/president.jpeg" class="comite_img" alt=""> </li>
 
                     <li class="font-weight-bold color-orange mt-4">Vice-président :</li>
                     <li class="color-blue">Abdelilah TEBAY</li>
@@ -105,5 +106,12 @@ export default {
 
 .blog_right_sidebar .list .cat-list {
   font-family: "Open Sans", sans-serif !important;
+}
+
+.comite_img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    border: 1px solid #000080;
 }
 </style>
